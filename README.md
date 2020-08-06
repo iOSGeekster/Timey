@@ -1,6 +1,7 @@
 # Timey
 
-A description of this package.
+This little project is mostly for my own learning :smile:
+
 [![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen)](https://docs.swift.org/package-manager/PackageDescription/PackageDescription.html)
 
 ## Features
